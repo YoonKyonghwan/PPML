@@ -2,8 +2,6 @@
 
 This repository contains the python-based implementation for the [paper](https://eprint.iacr.org/2017/979). 
 
-We notify that this project has been under continual development.
-
 
 # Setting up
 
